@@ -41,7 +41,7 @@ const Footer = ({ isDarkMode }) => {
             </a>
           </li>
           <li>
-            <a target="_blank" href="wa.me/6281236205872">
+            <a target="_blank" href="https://api.whatsapp.com/send?phone=6281236205872">
               WhatsApp
             </a>
           </li>
